@@ -92,3 +92,13 @@ a{
     color: #fff;
 }
 /* HEADER STYLES END */
+
+/* ASIDE START */
+.site-aside__title{
+    margin-bottom: 0;
+}
+
+.site-aside__text{
+    margin-top: 0;
+}
+/* ASIDE END */
